@@ -1,9 +1,8 @@
-```
-streamlit==1.38.0
-pandas==2.2.2
-requests==2.32.3
-beautifulsoup4==4.12.3
-lxml==5.3.0
-google-auth==2.34.0
-google-api-python-client==2.149.0
-```
+
+streamlit
+pandas
+requests
+beautifulsoup4
+lxml
+google-auth
+google-api-python-client
